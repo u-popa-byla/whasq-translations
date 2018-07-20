@@ -293,7 +293,7 @@
     <string name="common_close">закрыть</string>
 
     <!-- SkillSuggestionActivity -->
-    <string name="skill_suggestion_title">Предложить навыки Suggérez des talents</string>
+    <string name="skill_suggestion_title">Предложить навыки</string>
 
     <!-- WHASQ CREATION -->
     <string name="WHASQ_CREATION_TITLE">Вопрос</string>
@@ -337,7 +337,7 @@
     <string name="TAB_BAR_LOGIN_TITLE">Войти</string>
     <string name="TAB_BAR_REGISTER_TITLE">Зарегестрироваться</string>
     <string name="TAB_BAR_WHASQ_FOR_ME_TITLE">Вопросы для моих навыков </string>
-    <string name="TAB_BAR_ALL_WHASQ_TITLE">Все</string>
+    <string name="TAB_BAR_ALL_WHASQ_TITLE">All</string>
 
     <!-- Profile Pages title -->
     <string name="PROFILE_MY_INFORMATION_TITLE">Обо мне</string>
@@ -379,7 +379,7 @@
     <string name="EMAIL_APP_SELECTOR_TEXT">Предлагайте навыки на почту</string>
     <string name="EMAIL_MISSING_SKILL_DEST">jessie@whasq.com</string>
     <string name="EMAIL_MISSING_SKILL_SUBJECT">Предложение навыка!</string>
-    <string name="EMAIL_MISSING_SKILL_BODY">Привет! Я предлагаю добавить навык: </string>
+    <string name="EMAIL_MISSING_SKILL_BODY">Hello. I suggest to add the skill named: </string>
 
     <!-- Whasq -->
     <string name="read_nb">Прочитан : %d раз</string>
